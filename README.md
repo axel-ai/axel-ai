@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melnik Axel</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
-<a align="center"><img src="https://i.ibb.co/ZBKKWJw/banner-git-hever.png" alt="banner-git-hever" border="0"></a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/axel-melnik-18072b23b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/axel-melnik-18072b23b/" height="30" width="40" /></a>
