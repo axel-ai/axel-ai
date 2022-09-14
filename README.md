@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melnik Axel</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 <h2> Me encanta aprender cosas nuevas, siempre busque algo que me apasione nunca quise hacer o trabajar de algo que no me gustara.
-
-Entre a la carrera de Ingeniera en sistemas de información en la UTN estuve cursando por medio año, pero pese a que me encantaba la carrera, por motivos personales no podía estar 5 años de mi vida estudiando sin generar ingresos, por esa misma razón decidí buscar alguna alternativa y así pude encontrar henry y eso me lleva al presente de hoy.
   
 Busco poder seguir avanzando tanto en conocimiento y experiencia laboral, quiero poder mejorar dia a dia, me gusta trabajar en equipo, no suelo hablar mucho me gusta mas escuchar a las personas de mi entorno.
   
