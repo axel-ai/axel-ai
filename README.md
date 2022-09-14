@@ -3,15 +3,9 @@
 <h2> Me encanta aprender cosas nuevas, siempre busque algo que me apasione nunca quise hacer o trabajar de algo que no me gustara.
 
 Entre a la carrera de Ingeniera en sistemas de información en la UTN estuve cursando por medio año, pero pese a que me encantaba la carrera, por motivos personales no podía estar 5 años de mi vida estudiando sin generar ingresos, por esa misma razón decidí buscar alguna alternativa y así pude encontrar henry y eso me lleva al presente de hoy.
-
-Estudie computación donde mejore mis habilidades con Word, Excel, programas de edición de video,
-
-luego de eso hice un curso sobre programación básica, muchas cosas más no pude hacer debido a que era menor de edad y debido a eso estuve aprendiendo por mi cuenta gracias a internet
-
-aparte en mis tiempos libres pude aprender lo básico sobre edición de videos-imágenes, creación de juegos con unity y unreal engine
-
-mis experiencias laborales:
-trabaje como repartidor de comida, y con mi padre en polarizados de autos. </h2>
+  
+Busco poder seguir avanzando tanto en conocimiento y experiencia laboral, quiero poder mejorar dia a dia, me gusta trabajar en equipo, no suelo hablar mucho me gusta mas escuchar a las personas de mi entorno.
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
