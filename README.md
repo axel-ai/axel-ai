@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melnik Axel</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
-<h2> Me encanta aprender cosas nuevas, siempre busque algo que me apasione y lo encontre en programación.
-  
-Busco poder seguir avanzando tanto en conocimiento y experiencia laboral, quiero poder mejorar dia a dia, me gusta trabajar en equipo, no suelo hablar mucho me gusta mas escuchar.
+<h2> Me encanta aprender cosas nuevas, siempre busque algo que me apasione y lo encontre en programación. Busco poder seguir avanzando tanto en conocimiento y experiencia laboral, quiero poder mejorar dia a dia, me gusta trabajar en equipo, no suelo hablar mucho me gusta mas escuchar.</h2>
   
 
 <h3 align="left">Contacto:</h3>
